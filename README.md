@@ -2,7 +2,7 @@
 
 ## Technical Composition
 
-![tech](https://user-images.githubusercontent.com/85730998/152797710-ec87f2f1-ea49-4dea-b09d-44c7c62e6150.png)
+![tech](https://user-images.githubusercontent.com/85730998/152799613-d30a0ecb-d03a-40e5-98fe-25efdcb2202d.png)
 
 フロントエンド
 
