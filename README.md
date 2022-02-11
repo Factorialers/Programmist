@@ -1,10 +1,5 @@
 # Programmist
 
-<div style="text-align: center; font-size: 30px;">
-    Programs are Arts.<br>
-    Programmers are Creators.
-</div>
-
 Programmistはあなたのプログラマとしての創造性を表現するための場所です。
 あなたの作品は正当な評価を受けていますか？誰かの作品を探すのに煩わしさを感じてしていませんか？
 programmistはその全てを解決します。
