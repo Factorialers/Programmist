@@ -1,7 +1,7 @@
 # Programmist
 
-Programmistはあなたのプログラマとしての創造性を表現するための場所です。
-あなたの作品は正当な評価を受けていますか？誰かの作品を探すのに煩わしさを感じてしていませんか？
+Programmistはあなたのプログラマとしての創造性を表現するための場所です。  
+あなたの作品は正当な評価を受けていますか？誰かの作品を探すのに煩わしさを感じてしていませんか？  
 programmistはその全てを解決します。
 
 ## Repositories
@@ -11,18 +11,20 @@ programmistはその全てを解決します。
 
 ## Technical Composition
 
-![tech](https://user-images.githubusercontent.com/85730998/152799613-d30a0ecb-d03a-40e5-98fe-25efdcb2202d.png)
+![](https://user-images.githubusercontent.com/85730998/158018937-a66943fb-82a9-4fcf-bee5-03a7cd620f92.png)
 
 ### フロントエンド
 
 * TypeScript
-  * React.js
+  * React
+  * Apollo Client
 
 ### バックエンド
 
 * Rust
+  * Actix Web: Server
   * Juniper: GraphQL
-  * SQLx: MySQL
+  * Diesel: PostgreSQL
   * firebase_db_and_auth: Firebase Authentication
 
 ## Developers
