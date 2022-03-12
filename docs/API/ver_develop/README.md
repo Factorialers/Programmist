@@ -4,8 +4,19 @@
 
 ## End Points
 
-各エンドポイントは`http://localhost:3000`から開始されます。
+各エンドポイントは`https://programmist.herokuapp.com`から開始されます。
 
-|エンドポイントグループ|エンドポイント数|備考|
-|:-:|:-:|:-:|
-||||
+|エンドポイント|備考|
+|-|-|
+|[/graphiql][graphiql]|graphiqlを動作させる|
+|[/graphql][graphql]|graphqlクエリをリクエストする|
+|[/playground][playground]|playgroundを動作させる|
+
+[graphiql]: https://programmist.herokuapp.com/graphiql
+[graphql]: https://programmist.herokuapp.com/graphql
+[playground]: https://programmist.herokuapp.com/playground
+
+## Schemas
+
+* [Roots](schema/roots.md)
+* [Users](schema/users.md)
