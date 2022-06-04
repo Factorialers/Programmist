@@ -1,8 +1,8 @@
 # Programmist
 
-Programmistはあなたのプログラマとしての創造性を表現するための場所です。  
+Programmistは、**プログラムを小説や絵、曲のような「作品」として扱い、気軽に共有したり評価したりイベントに参加できるWebサービス**です。  
 あなたの作品は正当な評価を受けていますか？誰かの作品を探すのに煩わしさを感じてしていませんか？  
-programmistはその全てを解決します。
+programmistは<span style="text-decoration: underline;">その全てを解決します</span>。
 
 ## Repositories
 
@@ -11,23 +11,29 @@ programmistはその全てを解決します。
 
 ## Technical Composition
 
-![](https://user-images.githubusercontent.com/85730998/158018937-a66943fb-82a9-4fcf-bee5-03a7cd620f92.png)
+![technical composition](https://user-images.githubusercontent.com/85730998/171969388-5b73b2c9-82a2-4a64-84d4-3b43b72e8e8a.png)
 
 ### フロントエンド
 
 * TypeScript
-  * React
-  * Apollo Client
+* Next
+* React
+* Tailwind CSS
+* Apollo Client
 
 ### バックエンド
 
-* Rust
-  * Actix Web: Server
-  * Juniper: GraphQL
-  * Diesel: PostgreSQL
-  * firebase_db_and_auth: Firebase Authentication
+* TypeScript
+* Apollo Server
+* Prisma
 
 ## Developers
+
+### デザイン
+
+|dino3616|
+|:-:|
+|[<img src="https://github.com/dino3616.png" width="150px">](https://github.com/dino3616)|
 
 ### フロントエンド
 
